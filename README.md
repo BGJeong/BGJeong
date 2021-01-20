@@ -1,4 +1,4 @@
-commit message 
+commit message <br>
 m - modify<br>
 u - update<br>
 n - new<br>

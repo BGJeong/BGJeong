@@ -1,7 +1,7 @@
 ### Hi there 👋
-m - modify
-u - update
-n - new
+m - modify<br>
+u - update<br>
+n - new<br>
 <!--
 **BGJeong/BGJeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
